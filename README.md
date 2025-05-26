@@ -1,15 +1,24 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project:FLORA VISION:CNN Based Plant disease detection
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. PRYANSHU RATHOUR(2100290100123)
+2. KASHISH ALI KHAN(2100290100086)
+3. KARTIKEY CHAUBEY(2100290100085)
+
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. You must have *Python3.8* installed in your machine.
+* Create a Python Virtual Environment & Activate Virtual Environment [Link](https://docs.python.org/3/tutorial/venv.html)
+
+2.Install all the dependencies using below command
+    pip install -r requirements.txt
+3.Go to the Flask Deployed App folder.
+4.Download the pre-trained model file plant_disease_model_1.pt from [here](https://drive.google.com/file/d/1t_oSGS4omqBblNBJyKm_5ZGeQlSyVNnq/view?usp=sharing)
+
+5.Add the downloaded file in Flask Deployed App folder.
+6.Run the Flask app using below command python3 app.py
+
+
 
 ## Checklist:
 1. Final Project Report
