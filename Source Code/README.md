@@ -7,18 +7,11 @@
 * Install all the dependencies using below command
     `pip install -r requirements.txt`
 * Go to the `Flask Deployed App` folder.
-* Download the pre-trained model file `plant_disease_model_1.pt` from [here](https://drive.google.com/drive/folders/1ewJWAiduGuld_9oGSrTuLumg9y62qS6A?usp=share_link)
+* Download the pre-trained model file `plant_disease_model_1.pt` from [here](https://drive.google.com/file/d/18ON_NRXb-PhkmSlEhavUl-nUg1hsNjW2/view?usp=sharing)
 * Add the downloaded file in `Flask Deployed App` folder.
 * Run the Flask app using below command `python3 app.py`
 * You can also use downloaded file in `Model` Section and play with it using Jupyter Notebook.
 
-## ⭐Contribution ( Open Source )
-* This Project is now open source.
-* All the developers who are interested they can contribute in this project.
-* Yo can make UI better , make Deep learning model more powerful , add informative markdown file in section...
-* If you will change Deep learning make sure you upload updated markdown file (.md) , .pdf and .ipynb in particular section.
-* Make sure your code is working. It will not have any type or error.
-* You have to fork this project then make a pull request after you testing will successful.
 
 
 ## ⭐Testing Images
@@ -28,14 +21,4 @@
 
 
 
-## ⭐Snippet of Web App :
-#### Main page
-<img src = "demo_images/1.png" > <br>
-#### AI Engine 
-<img src = "demo_images/2.png"> <br>
-#### Results Page 
-<img src = "demo_images/3.png"> <br>
-#### Supplements/Fertilizer  Store
-<img src = "demo_images/4.JPG"> <br>
-#### Contact Us 
-<img src = "demo_images/5.png"> <br><br>
+
