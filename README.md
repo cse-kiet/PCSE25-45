@@ -12,10 +12,13 @@
 
 2.Install all the dependencies using below command
     pip install -r requirements.txt
+    
 3.Go to the Flask Deployed App folder.
+
 4.Download the pre-trained model file plant_disease_model_1.pt from [here](https://drive.google.com/file/d/1t_oSGS4omqBblNBJyKm_5ZGeQlSyVNnq/view?usp=sharing)
 
 5.Add the downloaded file in Flask Deployed App folder.
+
 6.Run the Flask app using below command python3 app.py
 
 
